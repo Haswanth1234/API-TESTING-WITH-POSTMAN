@@ -45,3 +45,25 @@ Python – Scripting automated test cases
 Requests – Python HTTP client for API calls
 
 unittest – Python built-in testing framework
+
+**Folder Structure**
+
+├── api_test.py             # Python test script using unittest
+├── Testng.py               # (Optional) Launcher or main script
+├── postman_collection.json # Exported Postman collection (if available)
+├── README.md               # Project documentatio
+
+🚀 **How to Run the Python Tests**
+
+Clone the repository
+
+**Install dependencies:**
+
+pip install requests
+
+**Run the test script:**
+
+python api_test.py
+
+# OUTPUT
+
